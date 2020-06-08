@@ -1,6 +1,0 @@
-gestion de vie et score
-affichage personnage principale
-animation es
-
-ajout de condition de fin de jeu(2)
-jouer contre pc (3)
