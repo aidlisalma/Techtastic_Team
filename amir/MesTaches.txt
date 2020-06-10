@@ -1,0 +1,3 @@
+Prototype 1 : Enigme 1 
+Prototype 2 : 1) Accélération ( intégré dans le code de déplacement du charactére)
+ 	      2) Saut 
